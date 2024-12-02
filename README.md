@@ -1,4 +1,5 @@
-- an incremental clicker game that combine features of Civilization 6 and Cookie Clicker.
-- likely to be updated weekly/bi-weekly
+- Very much a WIP project, updates frequently.
+
+Developing Team:
 - @trolmike, @ansonm316: software developer
 - @matthewxiaa: graphics designer
