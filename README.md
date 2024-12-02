@@ -2,5 +2,5 @@
 
 
 Developing Team:
-- @trolmike, @ansonm316: software developer
-- @matthewxiaa: graphics designer
+- @trolmike, @ansonm316: Software Developer
+- @matthewxiaa: Graphics Designer
